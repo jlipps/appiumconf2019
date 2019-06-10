@@ -5,10 +5,10 @@ import board
 
 
 INPUTS = [
-    {'board': board.A1, 'pixel': 6, 'drum': 'snare-8'},
-    {'board': board.A2, 'pixel': 8, 'drum': 'kick-8'},
+    {'board': board.A1, 'pixel': 6, 'drum': 'kick-8'},
+    {'board': board.A2, 'pixel': 8, 'drum': 'snare-8'},
     {'board': board.A5, 'pixel': 1, 'drum': 'hihat-8'},
-    {'board': board.A6, 'pixel': 3, 'drum': 'rimshot'},
+    {'board': board.A6, 'pixel': 3, 'drum': 'hitom-8'},
 ]
 
 
