@@ -1,6 +1,6 @@
 module.exports = {
   pins: {
-    'P1-37': {
+    'P1-7': {
       id: 'A1',
       mode: 'output',
       init: 1,
