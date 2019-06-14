@@ -1,4 +1,13 @@
-## Raspberry Pi Setup
+# Automation code for CPX drum machine using Appium Rasbperry Pi driver
 
-1. Start out with Debian Stretch (or Raspi Lite)
-2. Install gpiozero (https://gpiozero.readthedocs.io/en/stable/installing.html)
+This module contains an Appium test designed to be run against a running [appium-raspi-driver](https://github.com/jlipps/appium-raspi-driver). The test plays a sequence of drum hits. See `test.js` for the code.
+
+### Installation
+
+Git clone, then `npm install`
+
+### Run the test
+
+```
+node test.js
+```
