@@ -1,0 +1,29 @@
+{
+  "name": "appiumconf2019-demo",
+  "version": "1.0.0",
+  "description": "Test demo code for AppiumConf 2019",
+  "main": "test.js",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "wd": "^1.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlipps/appiumconf2019.git"
+  },
+  "keywords": [
+    "appium",
+    "adafruit",
+    "iot"
+  ],
+  "author": "Jonathan Lipps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlipps/appiumconf2019/issues"
+  },
+  "homepage": "https://github.com/jlipps/appiumconf2019#readme"
+}
