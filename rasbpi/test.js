@@ -38,6 +38,7 @@ async function hit (el, delay=HIT_HOLD_MS) {
       k4 k4 s8 k8 s8 s8
       h4 k4 s8 k4 k8
       k4 k4 s8 k8 t8 t8
+      h4
     `;
     await playSong(song, elMap);
   } finally {
